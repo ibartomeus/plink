@@ -6,6 +6,13 @@
 
 #2) We then penalize for the higher order interactions or web emergent propierties or aparent competition. 
 
+Probability to check. I am thinking in:
+
+P(A U B)= P(A)*P(B)
+
+where P(A) is the probablity of pollinator A and P(B) is the probability of the plant B.
+
+
 #3) Tets if predictions are improved with the penalization. (e.g. residuals observed (local comunity) - predicted (pool of all data))
 
 #4) If this works, a Sigmund model can be fit where the network structure is not fixed, but based on this p(links). 
